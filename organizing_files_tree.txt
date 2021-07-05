@@ -1,0 +1,12 @@
+seansmith@sumisu2 python_stack % tree
+.
+├── _python
+│   ├── OOP
+│   └── python_fundamentals
+├── django
+│   ├── django_fullstack
+│   ├── django_fundamentals
+│   └── django_orm
+└── environments
+
+8 directories, 0 files
